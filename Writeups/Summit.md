@@ -301,15 +301,15 @@ The higher we move on the Pyramid of Pain, the more expensive it becomes for att
 # 📸 Snapshots
 
 <p align="center">
-  <img src="pic1.png" alt="Snapshot 1" width="850">
+  <img src="images/pic1.png" alt="Snapshot 1" width="850">
 </p>
 
 <p align="center">
-  <img src="pic2.png" alt="Snapshot 2" width="850">
+  <img src="images/pic2.png" alt="Snapshot 2" width="850">
 </p>
 
 <p align="center">
-  <img src="pic3.png" alt="Snapshot 3" width="850">
+  <img src="images/pic3.png" alt="Snapshot 3" width="850">
 </p>
 <p align="center">
 
