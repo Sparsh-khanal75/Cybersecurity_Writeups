@@ -244,18 +244,16 @@ The exercise reinforces a key SOC principle:
 
 # Screenshots
 
-## Image 1
+## Screenshots
 
-> Add a screenshot of the email headers showing the **Received**,
-> **Return-Path**, and **Authentication-Results** headers.
+### Image 1 - Email Header Analysis
+
 
 ![Image 1](images/image1.png)
 
-------------------------------------------------------------------------
+---
 
-## Image 2
+### Image 2 - SPF and DMARC Lookup
 
-> Add a screenshot showing the **SPF** and **DMARC** lookup results
-> (Terminal or online lookup tool).
 
 ![Image 2](images/image2.png)
